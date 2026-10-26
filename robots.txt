@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://repalash.com/sitemap.xml
+Sitemap: https://repalash.com/uiconfig.js/sitemap.xml
+Sitemap: https://repalash.com/ts-browser-helpers/sitemap.xml
